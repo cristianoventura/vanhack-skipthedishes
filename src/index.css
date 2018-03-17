@@ -1,0 +1,45 @@
+login-form {
+    max-width: 320px;
+}
+
+.app-header {
+    margin: 20px 0 !important;
+}
+
+.item {
+    padding: 10px 0 0 !important;
+    margin: 10px 0 0;
+}
+
+.item a {
+    color: #1f1f1f;
+}
+
+.ui.list > .item .header {
+    margin-bottom: 5px;
+}
+
+.product {
+    cursor: pointer;
+}
+
+.product__price {
+    color: green;
+    font-weight: 800;
+    margin-top: 10px !important;
+}
+
+.cart-container {
+    padding-top: 30px !important;
+}
+
+.menu-link {
+    display: block;
+    margin-top: 15px;
+}
+
+.product--cart .product__price,
+.cousine-item {
+    align-items: center;
+    display: flex;
+}
